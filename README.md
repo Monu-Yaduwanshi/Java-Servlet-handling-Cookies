@@ -85,6 +85,3 @@ MySQL Documentation
 
 ### Key Highlights:
 - This `README.md` outlines the project details, technologies used, installation instructions, and how to use the servlets.
-- It encourages contributions and provides additional resources for further reading.
-
-You can add this file to your GitHub repository, and it will help others understand and get started with your project effectively. Let me know if you need any further modifications!
